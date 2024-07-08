@@ -1,0 +1,981 @@
+Symbol,Description,Sector,Exchange,Index,Industry,Market capitalization,Market capitalization - Currency
+LLY,Eli Lilly and Company,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Pharmaceuticals: Major,763089979870.4258,USD
+NVO,Novo Nordisk A/S,Health Technology,NYSE,,Pharmaceuticals: Major,596586266144.7587,USD
+JNJ,Johnson & Johnson,Health Technology,NYSE,"S&P 500, Dow Jones Industrial Average, S&P 500 Health Care, S&P 100, Russell 3000, Dow Jones Composite Average, Russell 1000, NYSE Arca Major Market",Pharmaceuticals: Major,369425270497.785,USD
+MRK,"Merck & Company, Inc.",Health Technology,NYSE,"S&P 500, Dow Jones Industrial Average, S&P 500 Health Care, S&P 100, Russell 3000, Dow Jones Composite Average, Russell 1000, S&P 500 ESG, NYSE Arca Major Market",Pharmaceuticals: Major,332050872622.6193,USD
+ABBV,AbbVie Inc.,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Pharmaceuticals: Major,281850146544.68604,USD
+AZN,AstraZeneca PLC,Health Technology,NASDAQ,"NASDAQ 100, NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,243613907909.25296,USD
+TMO,Thermo Fisher Scientific Inc,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000",Medical Specialties,225517993250.69543,USD
+NVS,Novartis AG,Health Technology,NYSE,,Pharmaceuticals: Major,203837398049.7204,USD
+DHR,Danaher Corporation,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,197904039442.35413,USD
+ABT,Abbott Laboratories,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,182348412147.88052,USD
+PFE,"Pfizer, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Pharmaceuticals: Major,167731142957.1709,USD
+AMGN,Amgen Inc.,Health Technology,NASDAQ,"S&P 500, NASDAQ 100, Dow Jones Industrial Average, NASDAQ Composite, S&P 500 Health Care, S&P 100, Russell 3000, Dow Jones Composite Average, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Pharmaceuticals: Major,165978261387.8644,USD
+ISRG,"Intuitive Surgical, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,142201554267.8737,USD
+SYK,Stryker Corporation,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,127778174980.47528,USD
+SNY,Sanofi,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,122903379349.21484,USD
+VRTX,Vertex Pharmaceuticals Incorporated,Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,115486640680.86632,USD
+MDT,Medtronic plc.,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,113874055988.91629,USD
+BSX,Boston Scientific Corporation,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,110807458766.18144,USD
+REGN,"Regeneron Pharmaceuticals, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Pharmaceuticals: Major,108382653027.0587,USD
+GSK,GSK plc,Health Technology,NYSE,,Pharmaceuticals: Major,91016434505.889,USD
+BMY,Bristol-Myers Squibb Company,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, S&P 500 ESG",Pharmaceuticals: Major,85827419064.37285,USD
+GILD,"Gilead Sciences, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, S&P 100, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Biotechnology,84468852956.10342,USD
+ZTS,Zoetis Inc.,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Pharmaceuticals: Major,78505575011.85226,USD
+BDX,"Becton, Dickinson and Company",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,67757567003.10482,USD
+MRNA,"Moderna, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Biotechnology,62594543808.832275,USD
+MMM,3M Company,Health Technology,NYSE,"S&P 500, Dow Jones Industrial Average, S&P 500 Industrials, S&P 100, Russell 3000, Dow Jones Composite Average, Russell 1000, NYSE Arca Major Market",Medical Specialties,56160634664.70331,USD
+EW,Edwards Lifesciences Corporation,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,54360541594.34889,USD
+DXCM,"DexCom, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,51909669906.705055,USD
+ALC,Alcon Inc.,Health Technology,NYSE,,Medical Specialties,45347777484.230484,USD
+A,"Agilent Technologies, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,44799358183.924324,USD
+IDXX,"IDEXX Laboratories, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,42775279855.78053,USD
+TAK,Takeda Pharmaceutical Company Limited,Health Technology,NYSE,,Pharmaceuticals: Major,41620633430.7947,USD
+GEHC,GE HealthCare Technologies Inc.,Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,36800238625.47767,USD
+BIIB,Biogen Inc.,Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Pharmaceuticals: Major,32789876693.72186,USD
+MTD,"Mettler-Toledo International, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,32074069643.463863,USD
+RMD,ResMed Inc.,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,32065433501.047787,USD
+PHG,Koninklijke Philips N.V. NY Registry Shares,Health Technology,NYSE,,Medical Specialties,25779248114.62305,USD
+ZBH,"Zimmer Biomet Holdings, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,24549569202.873028,USD
+WST,"West Pharmaceutical Services, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,24350738959.908104,USD
+STE,STERIS plc (Ireland),Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,22786516730,USD
+BNTX,BioNTech SE,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,21887408349,USD
+ARGX,argenx SE,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Other,21274828973.03802,USD
+WAT,Waters Corporation,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,20690710419.68321,USD
+ALGN,"Align Technology, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,19657552736.94296,USD
+COO,"The Cooper Companies, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,19199857711.438606,USD
+GMAB,Genmab A/S,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,19124282426.3802,USD
+ALNY,"Alnylam Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,19087609453.13728,USD
+TEVA,Teva Pharmaceutical Industries Limited,Health Technology,NYSE,,Pharmaceuticals: Generic,18518758866.701187,USD
+BGNE,"BeiGene, Ltd.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,18092989475.283413,USD
+BAX,Baxter International Inc.,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,17504080264.850506,USD
+HOLX,"Hologic, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,17458930578.29752,USD
+ILMN,"Illumina, Inc.",Health Technology,NASDAQ,"S&P 500, NASDAQ 100, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Biotechnology,17107227425.129078,USD
+RPRX,Royalty Pharma plc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,16327960335.716599,USD
+BMRN,BioMarin Pharmaceutical Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Biotechnology,14516309354.776958,USD
+NBIX,"Neurocrine Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,14031849272.04525,USD
+RVTY,"Revvity, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,13902688608.486708,USD
+NTRA,"Natera, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000",Medical Specialties,13325320830.66285,USD
+TECH,Bio-Techne Corp,Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Biotechnology,13076373517.325836,USD
+INCY,Incyte Corporation,Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology, S&P 500 ESG",Pharmaceuticals: Major,13068272359.7561,USD
+VTRS,Viatris Inc.,Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,12948600493.864052,USD
+PODD,Insulet Corporation,Health Technology,NASDAQ,"S&P 500, NASDAQ Composite, S&P 500 Health Care, Russell 3000, Russell 1000",Medical Specialties,12682753100.837029,USD
+SWAV,"Shockwave Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,12539919945.936419,USD
+UTHR,United Therapeutics Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,12264673496.023691,USD
+SRPT,"Sarepta Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,12127398663.169146,USD
+RDY,Dr. Reddy's Laboratories Ltd,Health Technology,NYSE,,Pharmaceuticals: Major,11541780880.806684,USD
+BRKR,Bruker Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,11378306573.308508,USD
+SNN,"Smith & Nephew SNATS, Inc.",Health Technology,NYSE,,Medical Specialties,11314098049.606,USD
+TFX,Teleflex Incorporated,Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,10037085185.316727,USD
+CTLT,"Catalent, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000",Pharmaceuticals: Major,9948461811.401201,USD
+EXAS,Exact Sciences Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000",Medical Specialties,9870495027.22926,USD
+QGEN,Qiagen N.V.,Health Technology,NYSE,"Russell 3000, Russell 1000",Medical Specialties,9629013434.373611,USD
+RGEN,Repligen Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Pharmaceuticals: Major,9226786387.964468,USD
+ROIV,Roivant Sciences Ltd.,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,9098001062.52538,USD
+GMED,"Globus Medical, Inc.",Health Technology,NYSE,"S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,9068936956.07594,USD
+ELAN,Elanco Animal Health Incorporated,Health Technology,NYSE,"Russell 3000, Russell 1000",Biotechnology,8366495041.51976,USD
+BIO,"Bio-Rad Laboratories, Inc.",Health Technology,NYSE,"S&P 500, S&P 500 Health Care, Russell 3000, Russell 1000, S&P 500 ESG",Medical Specialties,8336353069.044326,USD
+LEGN,Legend Biotech Corporation,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,7830898757,USD
+PCVX,"Vaxcyte, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,7763624841.241548,USD
+PEN,"Penumbra, Inc.",Health Technology,NYSE,"S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,7713055824.7482395,USD
+CERE,"Cerevel Therapeutics Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,7588410063.670097,USD
+ITCI,Intra-Cellular Therapies Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,7105187538.595522,USD
+ASND,Ascendis Pharma A/S,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,6955077111,USD
+VKTX,"Viking Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,6948000361.106336,USD
+MASI,Masimo Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,6720631212.571474,USD
+JAZZ,Jazz Pharmaceuticals plc,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,6651309921.128448,USD
+RVMD,"Revolution Medicines, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Other,6561502602.952346,USD
+GRFS,"Grifols, S.A.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,6473422116.325259,USD
+BPMC,Blueprint Medicines Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,6431381772.239698,USD
+CYTK,"Cytokinetics, Incorporated",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,6210497617.780512,USD
+EXEL,"Exelixis, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,6117147350.38059,USD
+XRAY,DENTSPLY SIRONA Inc.,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,5824037630.739361,USD
+HALO,"Halozyme Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,5788421730.722002,USD
+OGN,Organon & Co.,Health Technology,NYSE,"Russell 3000, Russell 1000",Pharmaceuticals: Major,5647469677.537758,USD
+LNTH,"Lantheus Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, Mini-Russell 2000",Medical Specialties,5638231925.939219,USD
+IONS,"Ionis Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,5546684198.394436,USD
+BBIO,"BridgeBio Pharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,5477273933.231557,USD
+GKOS,Glaukos Corporation,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,5426091569.103013,USD
+APLS,"Apellis Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,5291538360.065789,USD
+STVN,Stevanato Group S.p.A.,Health Technology,NYSE,,Medical Specialties,5288999576.101765,USD
+BLCO,Bausch + Lomb Corporation,Health Technology,NYSE,,Medical Specialties,5159586107.74503,USD
+MDGL,"Madrigal Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,5009487261.098931,USD
+KRYS,"Krystal Biotech, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,4833515896.752682,USD
+CRSP,CRISPR Therapeutics AG,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,4823347410.971512,USD
+IBRX,"ImmunityBio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,4799481327.473916,USD
+INSP,"Inspire Medical Systems, Inc.",Health Technology,NYSE,"Russell 3000, Russell 1000",Medical Specialties,4798037008.232722,USD
+MMSI,"Merit Medical Systems, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,4772798101.478313,USD
+HAE,Haemonetics Corporation,Health Technology,NYSE,"Russell 2000, S&P MidCap 400, Russell 3000, Mini-Russell 2000",Medical Specialties,4580305639.341776,USD
+TMDX,"TransMedics Group, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,4511421622.792083,USD
+NUVL,"Nuvalent, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,4507309235.007313,USD
+IMVT,"Immunovant, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,4294860047.8389435,USD
+ALKS,Alkermes plc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,4096848025.109285,USD
+ITGR,Integer Holdings Corporation,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,4073047076.850219,USD
+PRGO,Perrigo Company plc,Health Technology,NYSE,"S&P MidCap 400, Russell 3000, Russell 1000",Pharmaceuticals: Major,3998278222.463144,USD
+CRNX,"Crinetics Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,3985559367.895353,USD
+SANM,Sanmina Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Computer, Mini-Russell 2000",Medical Specialties,3776390180.367878,USD
+ALVO,Alvotech,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3735505624.8206596,USD
+AXSM,"Axsome Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,3647204662.2383513,USD
+INSM,Insmed Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,3590286106.762332,USD
+HCM,HUTCHMED (China) Limited,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,3504249762.7680206,USD
+AXNX,"Axonics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,3450379507.025299,USD
+PRCT,PROCEPT BioRobotics Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,3448503504.856768,USD
+RARE,Ultragenyx Pharmaceutical Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Pharmaceuticals: Major,3415118031.160177,USD
+BHVN,Biohaven Ltd.,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,3354209700.9307857,USD
+TNDM,"Tandem Diabetes Care, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000",Medical Specialties,3319255582.427007,USD
+LIVN,LivaNova PLC,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, Mini-Russell 2000",Medical Specialties,3279971085.579982,USD
+SWTX,"SpringWorks Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,3279805696.3904147,USD
+PBH,Prestige Consumer Healthcare Inc.,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,3231021865.769716,USD
+NVST,Envista Holdings Corporation,Health Technology,NYSE,"S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,3201719186.8397813,USD
+SHC,Sotera Health Company,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,3184546609.5041323,USD
+IDYA,"IDEAYA Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,3131912443.5917077,USD
+ARWR,"Arrowhead Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,3122393734.371703,USD
+SMMT,Summit Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,3081690413,USD
+OLK,Olink Holding AB (publ),Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,2987955527,USD
+CORT,Corcept Therapeutics Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,2979687748.4812503,USD
+PTCT,"PTC Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,2963563654.789189,USD
+NEOG,Neogen Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, S&P MidCap 400, Russell 3000, Mini-Russell 2000",Medical Specialties,2930702934.9154825,USD
+XENE,Xenon Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,2928192497.8142633,USD
+ACLX,"Arcellx, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2903049532.8443775,USD
+IOVA,"Iovance Biotherapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2890672048.249031,USD
+TXG,"10x Genomics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000",Biotechnology,2881381979.9482255,USD
+FOLD,"Amicus Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,2879053988.694248,USD
+DNLI,Denali Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2860736956.661661,USD
+QDEL,QuidelOrtho Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,2852998974.645707,USD
+RNA,"Avidity Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2832760535.5018635,USD
+IRTC,"iRhythm Technologies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,2817791368.2959566,USD
+APGE,"Apogee Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2798290058.531193,USD
+MOR,MorphoSys AG,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,2795487628.37886,USD
+MRVI,"Maravai LifeSciences Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Biotechnology,2783769782.721462,USD
+NARI,"Inari Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,2771446194.384515,USD
+TGTX,"TG Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,2735410069.9879518,USD
+ACAD,ACADIA Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,2613794498.137525,USD
+ICUI,"ICU Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000",Medical Specialties,2573048457.0449677,USD
+DYN,"Dyne Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2557276922.5448976,USD
+NVCR,NovoCure Limited,Health Technology,NASDAQ,"NASDAQ Composite, Russell 3000, Russell 1000, NASDAQ Biotechnology",Medical Specialties,2550382509.534066,USD
+IMCR,Immunocore Holdings plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,2550310335,USD
+MLTX,MoonLake Immunotherapeutics,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2549047813.299769,USD
+MRUS,Merus N.V.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,2547039723.6047573,USD
+TWST,Twist Bioscience Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2508958467.195731,USD
+NTLA,"Intellia Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2505466518.8125243,USD
+ARVN,"Arvinas, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2460126640.034632,USD
+VCEL,Vericel Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,2446125222.388123,USD
+JANX,"Janux Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2351427964.9516377,USD
+BHC,Bausch Health Companies Inc.,Health Technology,NYSE,,Pharmaceuticals: Other,2336495011.7762866,USD
+CNMD,CONMED Corporation,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,2309440022.6601663,USD
+RYTM,"Rhythm Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2307214881.4480405,USD
+INDV,Indivior PLC,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2262848275.1686754,USD
+ADMA,ADMA Biologics Inc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2232322724.4000006,USD
+RXRX,"Recursion Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2223207857.9432178,USD
+IART,Integra LifeSciences Holdings Corporation,Health Technology,NASDAQ,"NASDAQ Composite, S&P MidCap 400, Russell 3000, Russell 1000",Medical Specialties,2215847436.6486487,USD
+NVAX,"Novavax, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2204335699.7250166,USD
+DCPH,"Deciphera Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2203407589.6505694,USD
+KYMR,"Kymera Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2190489903.0237827,USD
+MYGN,"Myriad Genetics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Medical Specialties,2171286556.902789,USD
+GERN,Geron Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2170865227.962162,USD
+AMPH,"Amphastar Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,2125279439.186829,USD
+STAA,STAAR Surgical Company,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,2090528696.3679132,USD
+VERA,"Vera Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2085191442.2484913,USD
+CGON,"CG Oncology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,2053188184.3286157,USD
+AMRX,"Amneal Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,2052531609.2077732,USD
+BEAM,Beam Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2047899440.66129,USD
+RCKT,"Rocket Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,2037152814.2068968,USD
+ZLAB,Zai Lab Limited,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Golden Dragon China, NASDAQ Biotechnology",Biotechnology,2010889862.5998502,USD
+CPRX,"Catalyst Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,1906377499.1905625,USD
+AGIO,"Agios Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1898487991.8441556,USD
+GLPG,Galapagos NV,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,1889734327.9314897,USD
+PTGX,"Protagonist Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1859859114.0000002,USD
+KROS,"Keros Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1844247383.0757482,USD
+EVO,Evotec SE,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1835861015.7561297,USD
+FUSN,Fusion Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,1830490470.9837134,USD
+ARDX,"Ardelyx, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1829696788.137306,USD
+SANA,"Sana Biotechnology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1829613988.831325,USD
+INBX,"Inhibrx, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1803150953.7800815,USD
+LMAT,"LeMaitre Vascular, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1796137704.4177778,USD
+SNDX,"Syndax Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1764331363.9922554,USD
+NAMS,NewAmsterdam Pharma Company N.V.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1761921507.6694043,USD
+KURA,"Kura Oncology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1717872989.9751246,USD
+HRMY,"Harmony Biosciences Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1714546191.289039,USD
+EWTX,"Edgewise Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1697989500.0905535,USD
+VCYT,"Veracyte, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Medical Specialties,1652807253.9439855,USD
+INMD,InMode Ltd.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1616225149.2159998,USD
+TARO,Taro Pharmaceutical Industries Ltd.,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,1607981839.6523988,USD
+LGND,Ligand Pharmaceuticals Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1567867516.463448,USD
+SLNO,"Soleno Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1560953620.1655748,USD
+DVAX,Dynavax Technologies Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1554993500.7015705,USD
+VIR,"Vir Biotechnology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1546987257.5259545,USD
+NMRA,"Neumora Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,1539406588.767196,USD
+SUPN,"Supernus Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1532132434.4385028,USD
+RCUS,"Arcus Biosciences, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,1523462906.424014,USD
+AVDL,Avadel Pharmaceuticals plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,1520595027.9275,USD
+XNCR,"Xencor, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1510732549.7265463,USD
+ATEC,"Alphatec Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1505151091.434457,USD
+ESTA,Establishment Labs Holdings Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,1466536426.4520874,USD
+MORF,"Morphic Holding, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1465738425.4411666,USD
+SYRE,"Spyre Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,1432075335.922693,USD
+PCRX,"Pacira BioSciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1429897717.0640779,USD
+AKRO,"Akero Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1417595660.0296443,USD
+BCRX,"BioCryst Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1374471438.2803738,USD
+KNSA,"Kiniksa Pharmaceuticals, Ltd.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1367016647.2245739,USD
+OMI,"Owens & Minor, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1358627404.169779,USD
+BLTE,"Belite Bio, Inc",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1353263092,USD
+TARS,"Tarsus Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1351829023.5966167,USD
+FDMT,"4D Molecular Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1351527145.1952286,USD
+CGEM,"Cullinan Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1333656198.2996545,USD
+MNKD,MannKind Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1312562367.5105486,USD
+ANIP,"ANI Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1293165128.3688219,USD
+DAWN,"Day One Biopharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1277639780.4827588,USD
+MIRM,"Mirum Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1235827788.6700273,USD
+PRTA,Prothena Corporation plc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1160934068.4808314,USD
+MDXG,"MiMedx Group, Inc",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1158691043.5408804,USD
+GYRE,"Gyre Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1157807012.3969467,USD
+ARQT,"Arcutis Biotherapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1148380489.3839662,USD
+ABCL,AbCellera Biologics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,1135049769.4441557,USD
+COLL,"Collegium Pharmaceutical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1118209657.4144928,USD
+ATRC,"AtriCure, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1100214090.5051224,USD
+ELVN,"Enliven Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,1076669985.034061,USD
+PHVS,Pharvaris N.V.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1074719647.4650147,USD
+CRON,Cronos Group Inc. Common Share,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,1065811234.7842106,USD
+IMTX,Immatics N.V.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,1064865627.593603,USD
+SAVA,"Cassava Sciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,1061232808.9842838,USD
+IRWD,"Ironwood Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1031631758.958702,USD
+AUTL,Autolus Therapeutics plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,1029559784.9999999,USD
+VRNA,Verona Pharma plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,1013522147,USD
+BLFS,"BioLife Solutions, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,1007155834.6476015,USD
+INVA,"Innoviva, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,1004112013.6123838,USD
+LQDA,Liquidia Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,1002905126.4822642,USD
+RLAY,"Relay Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,999544757.9682542,USD
+LAB,Standard BioTools Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,992095487.5077517,USD
+AORT,"Artivion, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,991610252.4705881,USD
+NRIX,"Nurix Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,955604240.7797992,USD
+AVNS,"Avanos Medical, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,934603681.9556432,USD
+SRRK,Scholar Rock Holding Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,933920063.4050531,USD
+TYRA,"Tyra Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,929429213.4915991,USD
+OCUL,"Ocular Therapeutix, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,929333481.6393445,USD
+USNA,"USANA Health Sciences, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000, NASDAQ US Benchmark Food Producers",Pharmaceuticals: Other,925095572.9475586,USD
+BCYC,Bicycle Therapeutics plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,920864111,USD
+HUMA,"Humacyte, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,900277717.7240398,USD
+PRME,"Prime Medicine, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,894229542.5716065,USD
+ABVX,Abivax SA,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,886466986.1962799,USD
+ETNB,"89bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,878569124.9888269,USD
+SILK,"Silk Road Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,878414948.7264066,USD
+CVAC,CureVac N.V.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,875795720.7355623,USD
+ARCT,Arcturus Therapeutics Holdings Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,872052525.7715243,USD
+SPRY,"ARS Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,865274628.5152887,USD
+IMNM,"Immunome, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,864751056.276923,USD
+CNTA,Centessa Pharmaceuticals plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,864145178,USD
+PLRX,"Pliant Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,855420311.4832077,USD
+MESO,Mesoblast Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,855230020.9624001,USD
+ZNTL,"Zentalis Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,850738573.6113988,USD
+PROK,ProKidney Corp.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,838746908.7135135,USD
+ATRI,Atrion Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,830680677.4774072,USD
+CRGX,"CARGO Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,827288921.6957608,USD
+STOK,"Stoke Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,824014972.1804562,USD
+IRON,"Disc Medicine, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,820017678.0278311,USD
+NUVB,Nuvation Bio Inc.,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,813999718.4941177,USD
+CDNA,"CareDx, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,810944673.3826833,USD
+VRDN,"Viridian Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,810545348.6878881,USD
+EOLS,"Evolus, Inc. Common Stock",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,810179716.6079026,USD
+AUPH,Aurinia Pharmaceuticals Inc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,790897100.9642218,USD
+KIDS,OrthoPediatrics Corp.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,789927423.4951456,USD
+TNGX,"Tango Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,789593895.8273094,USD
+WVE,Wave Life Sciences Ltd.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,788643447.5189874,USD
+CTKB,"Cytek Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,783699322.0863789,USD
+EMBC,Embecta Corp.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,782584749.7991234,USD
+ALXO,ALX Oncology Holdings Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,781501572.6872247,USD
+PRTC,PureTech Health plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,776749805.3230001,USD
+COGT,"Cogent Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,767775574.625,USD
+LBPH,"Longboard Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,767103520.9348038,USD
+RGNX,REGENXBIO Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,761989793.2328769,USD
+PAHC,Phibro Animal Health Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,745671457.3941209,USD
+SAGE,"Sage Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,728202571.5352697,USD
+PRAX,"Praxis Precision Medicines, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,727940610.8677685,USD
+LYEL,"Lyell Immunopharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,703632231.1264368,USD
+HLVX,"HilleVax, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,703054073.8885065,USD
+ANAB,"AnaptysBio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,684058904.5177453,USD
+IGMS,"IGM Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,677000402.863258,USD
+DNTH,"Dianthus Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,676505233.8726089,USD
+CSTL,"Castle Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Medical Specialties,675823853.2391652,USD
+AVBP,"ArriVent BioPharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,666190375.9398497,USD
+ERAS,"Erasca, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,665676993.6,USD
+GHRS,GH Research PLC,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,660757420.7443366,USD
+PLSE,"Pulse Biosciences, Inc",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,659390413.3257965,USD
+FNA,"Paragon 28, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,652827225.5053475,USD
+QTRX,Quanterix Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,647912619.4624552,USD
+ITOS,"iTeos Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,645155393.2002219,USD
+ABUS,Arbutus Biopharma Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,643526365.8691589,USD
+ZYME,Zymeworks Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,642905218.5432098,USD
+MLYS,"Mineralys Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,621599719.4422928,USD
+ORIC,"Oric Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,618262535.3543305,USD
+MLAB,"Mesa Laboratories, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Industrials, Mini-Russell 2000",Medical Specialties,616863632.8113447,USD
+VREX,Varex Imaging Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,611455026.0522788,USD
+THRD,"Third Harmonic Bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,611375536.3725868,USD
+HROW,"Harrow, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,609271330.5700425,USD
+PHAT,"Phathom Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,605839196.5330848,USD
+LXRX,"Lexicon Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,603692091,USD
+SVRA,"Savara, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,598357913.839535,USD
+EYPT,"EyePoint Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,597407772.0957724,USD
+PHAR,Pharming Group N.V.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,595377847.15194,USD
+EXAI,Exscientia Plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,593582293,USD
+MNMD,Mind Medicine (MindMed) Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,592208221.8334332,USD
+PETQ,"PetIQ, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,590718980.2646914,USD
+HROWM,"Harrow, Inc. - 11.875% Senior Notes due 2027",Health Technology,NASDAQ,,Pharmaceuticals: Major,583442755,USD
+HROWL,"Harrow, Inc. - 8.625% senior notes due 2026",Health Technology,NASDAQ,,Pharmaceuticals: Major,583442755,USD
+ENGN,enGene Holdings Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,582778291.1002262,USD
+CALT,Calliditas Therapeutics AB,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,579636882.3308,USD
+SIBN,"SI-BONE, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,578103293.0725977,USD
+CDMO,"Avid Bioservices, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,577031318.9306167,USD
+KYTX,"Kyverna Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,574726167.6868614,USD
+VALN,Valneva SE,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,573936809.9886599,USD
+CABA,"Cabaletta Bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,570145723.6767843,USD
+YMAB,"Y-mAbs Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,563891904.15207,USD
+ALT,"Altimmune, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,559418273.9766234,USD
+TSHA,"Taysha Gene Therapies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,555444311.9480969,USD
+ALLO,"Allogene Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,555366538.6096655,USD
+IRMD,iRadimed Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,551398603.6966674,USD
+OFIX,Orthofix Medical Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,546801282.1774861,USD
+TRDA,"Entrada Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,540481198.4178343,USD
+CMPS,COMPASS Pathways Plc - American Depository Shares,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,537855735,USD
+SIGA,SIGA Technologies Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,531996392.01587313,USD
+ALEC,"Alector, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,524331991.86641926,USD
+HRTX,"Heron Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,522766447.6482558,USD
+ABSI,Absci Corporation,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,521315722.2609604,USD
+AVTE,"Aerovate Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,518550042.1424963,USD
+OLMA,"Olema Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,515150522.346154,USD
+ADPT,Adaptive Biotechnologies Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,509894430.0286532,USD
+LRMR,"Larimar Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,504020106.1343474,USD
+PACB,"Pacific Biosciences of California, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Medical Specialties,503858419.04371583,USD
+SRDX,"Surmodics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,502950198.98910874,USD
+TCRX,"TScan Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,502725287.43750006,USD
+BVS,Bioventus Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,501570421.3636364,USD
+NNOX,NANO-X IMAGING LTD,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,500944201.3584905,USD
+ATXS,"Astria Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,500257994.42391306,USD
+TVTX,"Travere Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,499406336.2662632,USD
+CELC,Celcuity Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,499369072.3700787,USD
+EDIT,"Editas Medicine, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,495072636.5408348,USD
+KALV,"KalVista Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,493181180.6830318,USD
+NKTX,"Nkarta, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,489749980.71209794,USD
+MXCT,"MaxCyte, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,480903716.2770562,USD
+URGN,UroGen Pharma Ltd.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,480891904.8229089,USD
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,480473733.59292036,USD
+FULC,"Fulcrum Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,479204532.51047117,USD
+APLT,"Applied Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,477637621.5849056,USD
+ZIMV,ZimVie Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,475369175.1701389,USD
+LENZ,"LENZ Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,470072328.5842274,USD
+KRRO,"Korro Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,465503958.66535443,USD
+PEPG,PepGen Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,455785603.23398125,USD
+RNAC,"Cartesian Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,453087514.7617886,USD
+VYGR,"Voyager Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,451467082.5829385,USD
+ZJYL,JIN MEDICAL INTERNATIONAL LTD.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Golden Dragon China",Medical Specialties,447724655.1777003,USD
+SLRN,"ACELYRIN, INC.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,447601964.84064656,USD
+ANNX,"Annexon, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,444769916.1000001,USD
+OCGN,"Ocugen, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,442604275.2864865,USD
+VERV,"Verve Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,439874758.8447653,USD
+OCS,Oculis Holding AG,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,437209500.99999994,USD
+TBPH,"Theravance Biopharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,436726350.65350884,USD
+MREO,Mereo BioPharma Group plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,426420451,USD
+NGNE,Neurogene Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,420561384.2435424,USD
+FATE,"Fate Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,415486696.4189189,USD
+BMEA,"Biomea Fusion, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,413362756.00172704,USD
+CTNM,"Contineum Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,407970745,USD
+ESPR,"Esperion Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,405594344.2489627,USD
+LXEO,"Lexeo Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,403946331.82400006,USD
+CCCC,"C4 Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,399073575.5555556,USD
+VRCA,Verrica Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,383901521.1231472,USD
+TERN,"Terns Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,383535474.3071895,USD
+AVXL,Anavex Life Sciences Corp.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,380886923.79310346,USD
+ANIK,Anika Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,376791064.98640776,USD
+ORGO,Organogenesis Holdings Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,373854346.15884477,USD
+OSUR,"OraSure Technologies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,373494419.65306115,USD
+IMMP,Immutep Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,372240716.3062,USD
+AMRN,Amarin Corporation plc,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,368265704,USD
+GUTS,"Fractyl Health, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,364973925.8241759,USD
+REPL,"Replimune Group, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,364191577.0682226,USD
+MGTX,MeiraGTx Holdings plc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,363975413.62909096,USD
+STTK,"Shattuck Labs, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,362813149.5647669,USD
+NVRO,Nevro Corp.,Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,360308049.60542166,USD
+CERS,Cerus Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,356837850.22702706,USD
+QTTB,Q32 Bio Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,355397768.0372093,USD
+AURA,"Aura Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,354730077.4503597,USD
+ADCT,ADC Therapeutics SA,Health Technology,NYSE,,Pharmaceuticals: Major,353149106.1313673,USD
+FBLG,"FibroBiologics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,351730227.2727273,USD
+ZURA,Zura Bio Limited,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,351534596.0727272,USD
+TRML,"Tourmaline Bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,349561913.5217391,USD
+STRO,"Sutro Biopharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,348443861.5638766,USD
+PGEN,"Precigen, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,348339173.0935252,USD
+LUNG,Pulmonx Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,347401055.26195896,USD
+TNYA,"Tenaya Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,347047479.00478476,USD
+NAUT,"Nautilus Biotechnology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,346984088,USD
+ACIU,AC Immune SA,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,342232505.0299401,USD
+SKYE,"Skye Bioscience, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Transportation",Pharmaceuticals: Major,336253513.8201499,USD
+NBTX,Nanobiotix S.A.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,332944775.40597,USD
+ZYXI,"Zynex, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,332686160.92344046,USD
+TMCI,"Treace Medical Concepts, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,330503355.3138833,USD
+ANRO,"Alto Neuroscience, Inc.",Health Technology,NYSE,,Biotechnology,330135558.70764387,USD
+VTYX,"Ventyx Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,329584344.86814344,USD
+SKIN,The Beauty Health Company,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Industrials, Mini-Russell 2000",Medical Specialties,326389065.7811321,USD
+SLDB,Solid Biosciences Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,322003289.2373678,USD
+AVIR,"Atea Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,321732228.2437674,USD
+NKTR,Nektar Therapeutics,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,321343091.1764706,USD
+PROC,"Procaps Group, S.A.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,315907713.1740614,USD
+CADL,"Candel Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,314699255.3854931,USD
+MRSN,"Mersana Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,314468364.4351145,USD
+TCMD,"Tactile Systems Technology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,307007152.07788163,USD
+KMDA,Kamada Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,305763893.92156863,USD
+RVNC,"Revance Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,304989623.8803987,USD
+XOMAO,XOMA Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,Health Technology,NASDAQ,,Pharmaceuticals: Major,301438510,USD
+XOMAP,XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock,Health Technology,NASDAQ,,Pharmaceuticals: Major,301438510,USD
+VSTM,"Verastem, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,300867545.82089555,USD
+VNDA,Vanda Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,299139129.22504896,USD
+XERS,"Xeris Biopharma Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,297993878.60999995,USD
+PSTX,"Poseida Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,296690409.51515156,USD
+MGNX,"MacroGenics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,294377282.3004695,USD
+XOMA,XOMA Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,293291523.2432433,USD
+NATR,"Nature's Sunshine Products, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Industrials, Mini-Russell 2000, NASDAQ US Benchmark Food Producers",Pharmaceuticals: Other,292184479.9243856,USD
+INO,"Inovio Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,291495388.3075523,USD
+TLIS,Talis Biomedical Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,291192762.64293784,USD
+NYXH,Nyxoah SA,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,290059262.6837607,USD
+INZY,"Inozyme Pharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,289483760.9106383,USD
+AQST,"Aquestive Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,286771371.0849056,USD
+CRMD,CorMedix Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,286337795.0590551,USD
+BDTX,"Black Diamond Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,283514061.2957747,USD
+OPT,Opthea Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,282600394.48599994,USD
+CRBU,"Caribou Biosciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,280888262.3851133,USD
+ATAI,ATAI Life Sciences N.V.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Pharmaceuticals: Major,279568123.38095236,USD
+ADAP,Adaptimmune Therapeutics plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,275935489,USD
+EPIX,ESSA Pharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,275050538,USD
+IPSC,"Century Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,274483277.7777778,USD
+ENTA,"Enanta Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,271308112.9727346,USD
+AXGN,"Axogen, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,270968369.3267652,USD
+MGX,"Metagenomi, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,268618303.9014085,USD
+FHTX,Foghorn Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,264882529,USD
+ACRV,"Acrivon Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,264615309.61997563,USD
+RANI,"Rani Therapeutics Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,264200117.98443583,USD
+ASPI,ASP Isotopes Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Major,263472671.02803737,USD
+EBS,"Emergent Biosolutions, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,263057286.99999994,USD
+TLSI,"TriSalus Life Sciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,262902288.08826482,USD
+XBIT,XBiotech Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,261630184.46910757,USD
+SGHT,"Sight Sciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,261220325.96153843,USD
+SMTI,Sanara MedTech Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,261171095.3995557,USD
+IVVD,"Invivyd, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,257722107.47511318,USD
+GLUE,"Monte Rosa Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,257443598.62863797,USD
+ANGO,"AngioDynamics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,253144642.75767916,USD
+ME,23andMe Holding Co.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,252710252.83056605,USD
+AGEN,Agenus Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,250101205.66456836,USD
+BOLD,"Boundless Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,245244635.1228389,USD
+QURE,uniQure N.V.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Biotechnology",Biotechnology,244689179.70000002,USD
+CHRS,"Coherus BioSciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,242071299.02403843,USD
+CDXC,ChromaDex Corporation,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,239457963.89873418,USD
+UTMD,"Utah Medical Products, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,237498360.9349629,USD
+DSGN,"Design Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,235019362.78260872,USD
+TSVT,"2seventy bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,233894659.33789957,USD
+MASS,908 Devices Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,233464694.30092588,USD
+AKBA,"Akebia Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,230556010.79646024,USD
+ALDX,"Aldeyra Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,229934078.65736043,USD
+PYXS,"Pyxis Oncology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,229665046.65,USD
+OVID,Ovid Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,229151133.81672025,USD
+ELYM,"Eliem Therapeutics, Inc",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,228947476.98214287,USD
+NPCE,"Neuropace, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,228418941.71320754,USD
+PRLD,Prelude Therapeutics Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,226309823.0611247,USD
+GTHX,"G1 Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,225332806.40838847,USD
+GBIO,Generation Bio Co.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,224202220.02654868,USD
+IPHA,Innate Pharma S.A.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,224196960.19212002,USD
+EDAP,EDAP TMS S.A.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,222993720,USD
+RCEL,"Avita Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,220071741.75061423,USD
+BFLY,"Butterfly Network, Inc.",Health Technology,NYSE,"Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,219136173.62962964,USD
+CDT,Conduit Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,218535427.54666668,USD
+DCTH,"Delcath Systems, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,218118556.19901112,USD
+ABOS,"Acumen Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,216287193.0708661,USD
+CMPX,"Compass Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,214639112.02499995,USD
+HOWL,"Werewolf Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,212496749.51999998,USD
+INMB,INmune Bio Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,211671996.1363636,USD
+CGEN,Compugen Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,209500662.96774194,USD
+SCLX,Scilex Holding Company,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Other,208368435.76576573,USD
+ELEV,"Elevation Oncology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,208171770.80428955,USD
+PBYI,Puma Biotechnology Inc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,204050354.2661871,USD
+INGN,"Inogen, Inc",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,203706225.28223,USD
+IVA,Inventiva S.A. - American Depository Shares,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,203003563.88333997,USD
+OM,"Outset Medical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,201975874.37499997,USD
+CLLS,Cellectis S.A.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,201322157.91866997,USD
+VERU,Veru Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Major,200545977.4964029,USD
+GNFT,GENFIT S.A.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,200370470.26155,USD
+CAPR,"Capricor Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,198821686.20826706,USD
+OMER,Omeros Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,198169022.51785716,USD
+FENC,Fennec Pharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,196446184.3876923,USD
+ZVRA,"Zevra Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,193781666.9177489,USD
+GALT,Galectin Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,193280693.06191948,USD
+PROF,Profound Medical Corp.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,192988300.49953744,USD
+AIRS,"AirSculpt Technologies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,192859351.0154242,USD
+ATOS,"Atossa Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,192408845.4662577,USD
+OBIO,"Orchestra BioMed Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,189679042.7680312,USD
+BLUE,"bluebird bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,189580973.567573,USD
+DRTS,Alpha Tau Medical Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,188807352,USD
+OTLK,"Outlook Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,187245083.60864037,USD
+TRVI,"Trevi Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,186653007.23443222,USD
+CVRX,"CVRx, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,184210266.81107095,USD
+LFCR,"Lifecore Biomedical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials, NASDAQ US Benchmark Food Producers",Pharmaceuticals: Major,178088638.2885906,USD
+ACHV,"Achieve Life Sciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,176857723,USD
+ABEO,Abeona Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,176687957.9164733,USD
+VXRT,"Vaxart, Inc. - Common Stock",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,175670881.67670658,USD
+GLSI,"Greenwich LifeSciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,173879936.18906942,USD
+YS,"YS Biopharma Co., Ltd.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,173054563.5691837,USD
+KOD,Kodiak Sciences Inc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,171263927.3520249,USD
+OPTN,"OptiNose, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,168012903.99999997,USD
+MDWD,MediWound Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,167149145.5337602,USD
+CLPT,ClearPoint Neuro Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,166167181.72981876,USD
+TELO,"Telomir Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,165815017.54385963,USD
+SMLR,"Semler Scientific, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,164987253.30076468,USD
+ADVM,"Adverum Biotechnologies, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,163979111.98473284,USD
+RIGL,"Rigel Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,161794621.55798686,USD
+RAPT,"RAPT Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,161603102.11111113,USD
+ALIM,"Alimera Sciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,157165530,USD
+PRQR,ProQR Therapeutics N.V.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,156785129.07368422,USD
+CRDF,"Cardiff Oncology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,154747080.81355932,USD
+SGMT,Sagimet Biosciences Inc. - Series A,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,154398451.84968683,USD
+XFOR,"X4 Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,152017278.12690976,USD
+ARAY,Accuray Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,151843579.6973684,USD
+CRDL,Cardiol Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,148825780.3421053,USD
+TELA,"TELA Bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,147439114.16339868,USD
+CTMX,"CytomX Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,146488406.65240642,USD
+CNTX,Context Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,146246709.97536948,USD
+GOSS,"Gossamer Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,144440617.0783582,USD
+HBIO,"Harvard Bioscience, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,143317766.78899083,USD
+SYRS,"Syros Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,143263895.75929204,USD
+MCRB,"Seres Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,141951991.2400835,USD
+INCR,Intercure Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,141275340.5371901,USD
+RPTX,Repare Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,140069850.0882353,USD
+RENB,Renovaro Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,138654644.18750003,USD
+VIGL,"Vigil Neuroscience, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,138310270.26285717,USD
+MOLN,Molecular Partners AG,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,136501072.51872,USD
+DBVT,DBV Technologies S.A.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,135865474.35204,USD
+IMAB,I-MAB,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Golden Dragon China",Pharmaceuticals: Major,135561014,USD
+CTXR,"Citius Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,134113835.33136983,USD
+ACET,"Adicet Bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,133942806.01242235,USD
+CRVS,"Corvus Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,133859745.67889908,USD
+SGMO,"Sangamo Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,131976406.84298627,USD
+GNLX,Genelux Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,131204157.56175302,USD
+SEER,"Seer, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,131172092.815534,USD
+KPTI,Karyopharm Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,130658396.33035713,USD
+FTLF,"FitLife Brands, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,128751213.06152877,USD
+LIFE,"aTyr Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,128360352.21538465,USD
+SCPH,scPharmaceuticals Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,127632609.31764708,USD
+TVGN,Tevogen Bio Holdings Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,127526797.29953489,USD
+RGLS,Regulus Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,125694476.19047621,USD
+AMLX,"Amylyx Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,124450523.51666667,USD
+PDSB,PDS Biotechnology Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,123975936.20786516,USD
+OMGA,"Omega Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,122995616.39726028,USD
+NVCT,"Nuvectis Pharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,122434919.32236841,USD
+FGEN,"FibroGen, Inc",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,122354742.00000001,USD
+ALLK,Allakos Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,120420487.66433568,USD
+COYA,"Coya Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,118553543.37349395,USD
+KEQU,Kewaunee Scientific Corporation,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Medical Specialties,117821758.45799714,USD
+VOR,Vor Biopharma Inc.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,117065212.00581396,USD
+VTGN,"Vistagen Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,115127394.79452053,USD
+CLRB,"Cellectar Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,114716564.6769231,USD
+IMUX,"Immunic, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,114400351,USD
+ADAG,Adagene Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,114262175,USD
+AKYA,"Akoya BioSciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,112847576.05681819,USD
+RZLT,"Rezolute, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,112779763.07000001,USD
+BCAB,"BioAtla, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,109704287.2274678,USD
+DMAC,DiaMedica Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,107248052.8125,USD
+BYSI,"BeyondSpring, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,106939910.5093633,USD
+EPRX,Eupraxia Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,105086538.22335026,USD
+CGTX,"Cognition Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,104953254.99559473,USD
+KRMD,"KORU Medical Systems, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,102054227.76995306,USD
+CLSD,"Clearside Biomedical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,100887040.2684564,USD
+ATHA,"Athira Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,100421065.06299213,USD
+ASRT,"Assertio Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,98929586.0392157,USD
+PRPH,"ProPhase Labs, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,98445212.52207293,USD
+CNTB,Connect Biopharma Holdings Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,97532228,USD
+HOOK,HOOKIPA Pharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,96971106.33531675,USD
+VANI,"Vivani Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,96762098.37535015,USD
+IFRX,InflaRx N.V.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,95979735.03289473,USD
+SCYX,"SCYNEXIS, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,95582888.31460673,USD
+SRTS,"Sensus Healthcare, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,95569276.1111111,USD
+LPTX,"Leap Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,95469841.01992033,USD
+LFVN,Lifevantage Corporation,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,94873150.23184358,USD
+ETON,"Eton Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,94027459.38718663,USD
+ORMP,Oramed Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,93446525.75757577,USD
+RLMD,"Relmada Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,93238284.67592591,USD
+MIST,Milestone Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,93205820.05813955,USD
+CUE,"Cue Biopharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,92908736.94429708,USD
+GRTS,"Gritstone bio, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,91426270.05292982,USD
+ELTX,"Elicio Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,90994727,USD
+DTIL,"Precision BioSciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,90586824.94712643,USD
+BNTC,Benitec Biopharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,88897436.60416666,USD
+BWAY,BrainsWay Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,88551234.27909,USD
+ALVR,"AlloVir, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,88023128.58205579,USD
+IOBT,"IO Biotech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,87621616.4269663,USD
+VTVT,vTv Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,87326004.99999999,USD
+TTOO,"T2 Biosystems, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,86511056.22568807,USD
+CMRX,"Chimerix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,86313594.19384615,USD
+ANVS,"Annovis Bio, Inc.",Health Technology,NYSE,,Pharmaceuticals: Major,85461818.83961117,USD
+ENTX,Entera Bio Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,85169038.89539748,USD
+ATRA,"Atara Biotherapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,84267213.90191835,USD
+BRNS,Barinthus Biotherapeutics plc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,83799492,USD
+TLSA,Tiziana Life Sciences Ltd,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,83501073.5487805,USD
+ASMB,"Assembly Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,83416349.76055409,USD
+ONCY,Oncolytics Biotech Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,82961745.76158942,USD
+ANIX,"Anixa Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,82939483.8095238,USD
+SLS,"SELLAS Life Sciences Group, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,82589545.26760563,USD
+ELUT,"Elutia, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,82302714,USD
+ACRS,"Aclaris Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,81954499.53389831,USD
+SPRO,"Spero Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,81249893.79801324,USD
+ALRN,"Aileron Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,79881433.63395225,USD
+ALUR,"Allurion Technologies, Inc.",Health Technology,NYSE,,Medical Specialties,78155164.76923077,USD
+PASG,"Passage Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,77667152.0625,USD
+MDXH,MDxHealth SA,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,75588019,USD
+BNGO,"Bionano Genomics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,74211049.05714285,USD
+BTAI,"BioXcel Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,73935713.2437811,USD
+WRAP,"Wrap Technologies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Medical Specialties,73837660.35757576,USD
+RBOT,Vicarious Surgical Inc.,Health Technology,NYSE,"Russell 2000, Mini-Russell 2000",Medical Specialties,73652975.1493671,USD
+AFMD,Affimed N.V.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,73091822.91262135,USD
+TIL,"Instil Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,72973901.11695844,USD
+TPST,"Tempest Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,72872630.76190476,USD
+ELDN,"Eledon Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,72352410.92556636,USD
+LVTX,LAVA Therapeutics N.V.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,71506320.18113208,USD
+LABP,"Landos Biopharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,71260110.57670403,USD
+RGC,Regencell Bioscience Holdings Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,71050245.34552103,USD
+DERM,Journey Medical Corporation,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,71045780.25222552,USD
+RLYB,Rallybio Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,70878295.56521739,USD
+MRNS,"Marinus Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, NASDAQ Biotechnology, Mini-Russell 2000",Pharmaceuticals: Major,70864569.9924812,USD
+STIM,"Neuronetics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,70794248.95081966,USD
+TKNO,"Alpha Teknova, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,69807990.11731842,USD
+LTRN,Lantern Pharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,69501877.8312102,USD
+INTS,"Intensity Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,68559400.82644628,USD
+CLGN,CollPlant Biotechnologies Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,68486524.11147541,USD
+MNOV,"MediciNova, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,68390084.47942446,USD
+CKPT,"Checkpoint Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,68173011.30653265,USD
+PDEX,"Pro-Dex, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,67185098.12571786,USD
+NVNO,enVVeno Medical Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,65983497.98370673,USD
+HYPR,"Hyperfine, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,65527233.64886185,USD
+IKNA,"Ikena Oncology, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,65148448.69565218,USD
+DHAI,"DIH Holding US, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,64060995.660377346,USD
+MURA,Mural Oncology plc,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,63803026,USD
+CRIS,"Curis, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,63773999.12366837,USD
+CSBR,"Champions Oncology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,63618828.16542948,USD
+MGRM,Monogram Technologies Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,63340703.51758794,USD
+ANTX,"AN2 Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,63237560.29561201,USD
+TSBX,Turnstone Biologics Corp.,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,62909389.32384342,USD
+AVRO,"AVROBIO, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,62851248.98550724,USD
+BEAT,"Heartbeam, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,62136509.70464134,USD
+TARA,"Protara Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,61564033.66894198,USD
+RPHM,"Reneo Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, NASDAQ Biotechnology, Mini-Russell 2000",Biotechnology,61160076.5873016,USD
+NSPR,InspireMD Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,60552049.596995704,USD
+KRON,"Kronos Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,60094408.823529415,USD
+COCH,"Envoy Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,59387948.3409836,USD
+CARM,"Carisma Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,58575266.57746479,USD
+THTX,Theratechnologies Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,58394622.960451975,USD
+CALC,"CalciMedica, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,57829972.68888888,USD
+IMMX,"Immix Biopharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,56790745.93478261,USD
+CDTX,"Cidara Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,56291475.60451977,USD
+KZR,"Kezar Life Sciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,56202651.68707307,USD
+XAIR,"Beyond Air, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Medical Specialties,55539992.3875969,USD
+APYX,Apyx Medical Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,55430280,USD
+GNTA,Genenta Science S.p.A.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,55153360,USD
+RMTI,"Rockwell Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,54871385.82777777,USD
+ANEB,"Anebulo Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,54459750.85308057,USD
+ENZ,"Enzo Biochem, Inc.",Health Technology,NYSE,,Biotechnology,54299276.32380953,USD
+OCEA,"Ocean Biomedical, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,53706024.4,USD
+NTRB,Nutriband Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,53423269.41641338,USD
+BLRX,BioLineRx Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,52454524.369950004,USD
+DRIO,DarioHealth Corp.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,52066453.55801105,USD
+CTCX,Carmell Corporation,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,52005992.59375,USD
+ALGS,"Aligos Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,51474437.362568535,USD
+CTSO,Cytosorbents Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,51048030,USD
+EQ,"Equillium, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,50414296.76158941,USD
+EGRX,"Eagle Pharmaceuticals, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Pharmaceuticals: Major,49480357.530892454,USD
+OKYO,OKYO Pharma Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,48856994,USD
+ICCM,IceCure Medical Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,48473482,USD
+MODD,"Modular Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,48344351.13253012,USD
+AMIX,"Autonomix Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,47736693.39555556,USD
+LUCD,Lucid Diagnostics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,47684632.0655161,USD
+AADI,"Aadi Bioscience, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Biotechnology,47389616.432432435,USD
+LNSR,"LENSAR, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,47297341.73431734,USD
+ABIO,"ARCA biopharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,47148215.43209876,USD
+CLNN,Clene Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,46775559.44594594,USD
+CASI,"CASI Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,46368755.54045308,USD
+INAB,"IN8bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,46330148.01980198,USD
+IMRX,Immuneering Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,45962698.53896104,USD
+OCUP,"Ocuphire Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,45885760.335260116,USD
+NXTC,"NextCure, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,45316727.56886228,USD
+GANX,"Gain Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,43866309.456,USD
+BGXX,Bright Green Corporation,Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Other,43719235.341496594,USD
+LFWD,ReWalk Robotics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,43099157.4260355,USD
+CUTR,"Cutera, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Medical Specialties,42954284.61403509,USD
+IXHL,Incannex Healthcare Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,42690619.18656716,USD
+ICAD,icad inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,42464047.11656442,USD
+XLO,"Xilio Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,42449230.291666664,USD
+CARA,"Cara Therapeutics, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Russell 3000, Mini-Russell 2000",Biotechnology,42100482.40912709,USD
+IRIX,IRIDEX Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,42095138.0929368,USD
+ECOR,"electroCore, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,42027431.51789643,USD
+HCWB,HCW Biologics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,41980186.92249955,USD
+NRXP,"NRX Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,41732374.35233161,USD
+NAII,"Natural Alternatives International, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,40925735.76219512,USD
+RVPH,"Reviva Pharmaceuticals Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,40481910.00000001,USD
+DARE,"Dare Bioscience, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,40437158.34118757,USD
+ACXP,"Acurx Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,40399908.65591397,USD
+EYEN,"Eyenovia, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, Russell 2000, Mini-Russell 2000",Pharmaceuticals: Major,40182202.644194245,USD
+POCI,"Precision Optics Corporation, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,40112903.853249855,USD
+BCLI,Brainstorm Cell Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,40086057.993548386,USD
+FBIOP,"Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",Health Technology,NASDAQ,,Pharmaceuticals: Major,39433923,USD
+OCX,Oncocyte Corporation,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,38845651.49234043,USD
+ACHL,Achilles Therapeutics plc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,38778760,USD
+VYNE,VYNE Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,38645137.118518524,USD
+QNCX,"Quince Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,38461558.011627905,USD
+DRRX,DURECT Corporation,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,38178437.20930233,USD
+IINN,Inspira Technologies Oxy B.H.N. Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,37872330.01376146,USD
+UNCY,"Unicycive Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,37794660.057692304,USD
+JAGX,"Jaguar Health, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,37578594.03997194,USD
+EVGN,Evogene Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,37422701.366896555,USD
+FBIO,"Fortress Biotech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,37243149.50000001,USD
+ESLA,"Estrella Immunopharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,36921935.79999999,USD
+CYTH,"Cyclo Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,36914305.169117644,USD
+ICCC,ImmuCell Corporation,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,36793928.2815126,USD
+LEXX,Lexaria Bioscience Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,35435599.581939794,USD
+LPCN,Lipocine Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,35296405.20547945,USD
+MRKR,"Marker Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,35141234.74240422,USD
+INKT,"MiNK Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,34727642.42424242,USD
+SNSE,"Sensei Biotherapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,34110101.714285724,USD
+CODX,"Co-Diagnostics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,34093475.81818182,USD
+SRZN,"Surrozen, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,33746870.183213174,USD
+RNXT,"RenovoRx, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,33532554.22222222,USD
+PMN,ProMIS Neurosciences Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,33276757.45942401,USD
+AKLI,"Akili, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Medical Specialties,33060670.64846416,USD
+PLUR,Pluri Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,32925518.92755906,USD
+NSYS,Nortech Systems Incorporated,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Computer",Medical Specialties,32473654.776632298,USD
+AWH,Aspira Women's Health Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,31248274.638376385,USD
+SPRB,"Spruce Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,30911371.14186986,USD
+IPA,ImmunoPrecise Antibodies Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,30788853.310289815,USD
+ICU,SeaStar Medical Holding Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,30544882.376140006,USD
+VIRX,"Viracta Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,29886323.757594094,USD
+BIVI,BioVie Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,29545208.302253462,USD
+MDAI,"Spectral AI, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,29370318.40909091,USD
+BOLT,"Bolt Biotherapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,29167719.619354837,USD
+NMTC,NeuroOne Medical Technologies Corporation,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Real Estate and Other Financial Services",Medical Specialties,29166876.423076928,USD
+BIAF,"bioAffinity Technologies, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,28910730.801687762,USD
+OMIC,"Singular Genomics Systems, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,28548021.35149864,USD
+BCTX,BriaCell Therapeutics Corp.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Real Estate and Other Financial Services",Biotechnology,27426989.285714284,USD
+APRE,"Aprea Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,27313980.69104894,USD
+ENLV,Enlivex Therapeutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,26781919.248322144,USD
+ONCT,"Oncternal Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,26636804.529616725,USD
+SABS,"SAB Biotherapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,26211140.756013744,USD
+LSTA,"Lisata Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,25794575.913028996,USD
+APLM,Apollomics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,25515248.179742765,USD
+ACST,"Acasti Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,25284398.809523806,USD
+UBX,"Unity Biotechnology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,25016468.280821916,USD
+EKSO,"Ekso Bionics Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,24898963.287878785,USD
+TXMD,"TherapeuticsMD, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,24679427.129186604,USD
+GDTC,CytoMed Therapeutics Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,23772400,USD
+ITRM,Iterum Therapeutics plc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,23507934.836879432,USD
+NEPH,"Nephros, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,23407987.68421053,USD
+AXDX,"Accelerate Diagnostics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,23153041.427513424,USD
+CPIX,Cumberland Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,22280228.721212123,USD
+SLGL,Sol-Gel Technologies Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,22010304.856571216,USD
+FBRX,"Forte Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,21865426.773260757,USD
+COCP,"Cocrystal Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,21669155.321000002,USD
+NRSN,NeuroSense Therapeutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,21494214.126984123,USD
+NRBO,"NeuroBo Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,21292048.528384276,USD
+MEIP,"MEI Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,21253846.68548077,USD
+INDP,"Indaptus Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,21176429.787234038,USD
+APM,Aptorum Group Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20985869.220779218,USD
+ATHE,Alterity Therapeutics Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20965777.009,USD
+LYRA,"Lyra Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20868271.342993807,USD
+LUMO,"Lumos Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20859372.365079366,USD
+QLI,Qilian International Holding Group Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20738575.805694442,USD
+VINC,"Vincerx Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,20673967.898832686,USD
+BSGM,"BioSig Technologies, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,20087025.000000004,USD
+ATPC,Agape ATP Corporation,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,19788064.704494163,USD
+QTI,"QT Imaging Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,19134320.06989011,USD
+SYBX,"Synlogic, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,18731216.484848484,USD
+MHUA,"Meihua International Medical Technologies Co., Ltd.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,18684435.43059613,USD
+EVAX,Evaxion Biotech A/S,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,18617745,USD
+APTO,"Aptose Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,18429614.848101262,USD
+VBIV,"VBI Vaccines, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,18356656.60609794,USD
+KALA,"KALA BIO, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,18335116.212765954,USD
+GLYC,"GlycoMimetics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,18198303.44117647,USD
+TNXP,Tonix Pharmaceuticals Holding Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,18153323.858695652,USD
+PMCB,"PharmaCyte Biotech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,18005734.866028707,USD
+NERV,"Minerva Neurosciences, Inc",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,17483515.24390244,USD
+AYTU,"Aytu BioPharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,17381563.468881793,USD
+TLPH,"Talphera, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,17332835.714285713,USD
+TCRT,"Alaunos Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,17133399.000000004,USD
+HLTH,Cue Health Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,17022824.05084746,USD
+PAVM,PAVmed Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,16977097.173913043,USD
+GLTO,"Galecto, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,16742090.870168002,USD
+SNTI,"Senti Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,16668554.218220338,USD
+ORGS,Orgenesis Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,16529978.55764706,USD
+TRAW,"Traws Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,16322921.764839204,USD
+CDIO,Cardio Diagnostics Holdings Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,16220196.85,USD
+FLGC,Flora Growth Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,16020669.791666664,USD
+MBOT,Microbot Medical Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,15550880.727272728,USD
+SBFM,Sunshine Biopharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,15199616.323857995,USD
+RDHL,Redhill Biopharma Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,15127262,USD
+EDSA,"Edesa Biotech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,14701477.722725276,USD
+DMTK,"DermTech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,14684456.450704224,USD
+XTLB,XTL Biopharmaceuticals Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,14657587.77726,USD
+PIRS,"Pieris Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,14504553.498139536,USD
+MTEX,"Mannatech, Incorporated",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,14437675.24,USD
+STRR,"Star Equity Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,14263381.011235954,USD
+KPRX,"Kiora Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,14178345.893719811,USD
+STRRP,"Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock",Health Technology,NASDAQ,,Medical Specialties,14104899,USD
+PPBT,Purple Biotech Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,13906072.42443,USD
+HUGE,FSD Pharma Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,13748806.91304348,USD
+IMRN,Immuron Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,13670324.7362,USD
+MIRA,"MIRA Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,13533375.88235294,USD
+ONVO,"Organovo Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,13512539.262135923,USD
+SSKN,"Strata Skin Sciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,13358210.715384617,USD
+IMNN,"Imunon, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,13349260.999999998,USD
+DOMH,Dominari Holdings Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,13175515.855881117,USD
+ADXN,Addex Therapeutics Ltd,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,13134373.77144,USD
+AKTX,Akari Therapeutics Plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,13058027,USD
+CHEK,Check-Cap Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,12987806.81715576,USD
+MYNZ,Mainz Biomed N.V.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,12803646.29948365,USD
+BNOX,Bionomics Limited - American Depository Shares,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Generic,12618200,USD
+ELAB,"Elevai Labs, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Biotechnology,12563256.844444446,USD
+PSTV,"PLUS THERAPEUTICS, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,12435198.985915495,USD
+IKT,"Inhibikase Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,12241236.000000002,USD
+TRIB,Trinity Biotech plc,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,11881547,USD
+COSM,Cosmos Health Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Major,11852792.000000002,USD
+GCTK,"GlucoTrack, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,11833776,USD
+MBRX,"Moleculin Biotech, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11742602.306451613,USD
+GHSI,"Guardion Health Sciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,11685819.597642843,USD
+CMMB,Chemomab Therapeutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,11659578,USD
+ABVC,"ABVC BioPharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11611450.768518519,USD
+PBM,Psyence Biomedical Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11544087.77474081,USD
+MGRX,"Mangoceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11416980.399767127,USD
+SINT,"SiNtx Technologies, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,11361876.992332967,USD
+ALLR,"Allarity Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11268313.067495251,USD
+COEP,"Coeptis Therapeutics Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,11187544.966765579,USD
+AVTX,"Avalo Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,11158262.107142856,USD
+ASLN,ASLAN Pharmaceuticals Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,10860870,USD
+ERNA,Eterna Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,10766558.601997146,USD
+MNPR,Monopar Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,10745775.62199313,USD
+BMRA,"Biomerica, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,10648101.852583587,USD
+XXII,"22nd Century Group, Inc",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Biotechnology,10503698.920863312,USD
+KTRA,"Kintara Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,10176048.839779004,USD
+AEZS,Aeterna Zentaris Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,10148788.620450607,USD
+GRTX,"Galera Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,10095187.435789471,USD
+UPXI,"Upexi, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,9782174.052440844,USD
+RNAZ,"TransCode Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,9460891.008,USD
+UPC,Universe Pharmaceuticals Inc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,9078475.552941179,USD
+BRTX,"BioRestorative Therapies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Real Estate and Other Financial Services",Medical Specialties,9071691.523809526,USD
+MTEM,"Molecular Templates, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,8954076.999999998,USD
+NXL,"Nexalin Technology, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,8552046.34379619,USD
+BCDA,"BioCardia, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,8445162.243842365,USD
+IMCC,IM Cannabis Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,8384728.4044943815,USD
+EFTR,"eFFECTOR Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,8279759.731843575,USD
+PTIX,"Protagenic Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7980133.079662077,USD
+VCNX,"Vaccinex, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,7962670.625814814,USD
+NCNA,NuCana plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,7750080,USD
+NURO,"NeuroMetrix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,7724102.701570681,USD
+PYPD,PolyPid Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7696985.786315341,USD
+TRVN,"Trevena, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7477606.806585365,USD
+AQB,"AquaBounty Technologies, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Biotechnology,7367718.172852322,USD
+LGVN,Longeveron Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,7364404.268907563,USD
+CYCN,"Cyclerion Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7344359.5346153835,USD
+ENTO,Entero Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,7281714.368531469,USD
+SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7235235.672897196,USD
+PULM,"Pulmatrix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7231524.3,USD
+GTBP,"GT Biopharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7111588.378571427,USD
+TENX,"Tenax Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,7088846.752043597,USD
+NLSP,NLS Pharmaceutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6937295.988235294,USD
+KTTA,Pasithea Therapeutics Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6883141.836637038,USD
+VVOS,"Vivos Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,6874085.099999999,USD
+FRES,Fresh2 Group Limited,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,6803978,USD
+TFFP,"TFF Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6753931.964285715,USD
+POAI,Predictive Oncology Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,6685894.243902438,USD
+KZIA,Kazia Therapeutics Limited,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6660310,USD
+CVKD,"Cadrenal Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,6606698.123809524,USD
+PAVS,Paranovus Entertainment Technology Ltd.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,6493916.52644041,USD
+SILO,"Silo Pharma, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Major,6447788.348623851,USD
+ENVB,"Enveric Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,6434164.009661836,USD
+BIOL,"Biolase, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,6411836.990595611,USD
+HEPA,"Hepion Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6402768,USD
+SNGX,"Soligenix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6209336.242021277,USD
+AIMD,"Ainos, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,6159242.43,USD
+TTNP,"Titan Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6103242.997212642,USD
+XBIO,"Xenetic Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6101108.129032259,USD
+ADIL,"Adial Pharmaceuticals, Inc",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,6011298.1714285705,USD
+SNPX,"Synaptogenix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5956500.412121211,USD
+CELZ,"Creative Medical Technology Holdings, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Real Estate and Other Financial Services",Medical Specialties,5938494.629545454,USD
+HOTH,"Hoth Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5866565.833896016,USD
+KA,"Kineta, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5830057.248612298,USD
+BFRI,Biofrontera Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5801931.33632287,USD
+VIRI,"Virios Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5651515.943385956,USD
+LIXT,"Lixte Biotechnology Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,5465774.602409638,USD
+SONN,"Sonnet BioTherapeutics Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,5415577.054545456,USD
+PCSA,"Processa Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5258733.557894737,USD
+XRTX,XORTX Therapeutics Inc.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Major,5216993.28,USD
+PRTG,Portage Biotech Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,5015343.399758454,USD
+CING,Cingulate Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,5013821.962532378,USD
+GNPX,"Genprex, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4973913.957446808,USD
+ARTL,"Artelo Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4922242,USD
+LIPO,Lipella Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4913240.736061522,USD
+DRUG,Bright Minds Biosciences Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,4881388.83125,USD
+PALI,"Palisade Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4837819.519408504,USD
+ENSC,"Ensysce Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,4830237.567058824,USD
+THMO,"ThermoGenesis Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,4821770.514,USD
+AVGR,"Avinger, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,4679980,USD
+MYMD,"MyMD Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4615264.114832536,USD
+PTPI,"Petros Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4552227.1172849,USD
+NUWE,"Nuwellis, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,4411677.56,USD
+BON,Bon Natural Life Limited,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Biotechnology,4348856.571428572,USD
+NEXI,"NexImmune, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4332520.872727273,USD
+GOVX,"GeoVax Labs, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,4316538.422360249,USD
+XYLO,Xylo Technologies Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,4273058,USD
+ALZN,"Alzamend Neuro, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4265596.062241982,USD
+RSLS,"ReShape Lifesciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,4191781.9173866087,USD
+ADTX,"Aditxt, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,4138786.302884615,USD
+XCUR,"Exicure, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,4023583.0436708876,USD
+TCON,"TRACON Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,4018552.3489932884,USD
+STSS,Sharps Technology Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3967869.90714574,USD
+EVOK,"Evoke Pharma, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3877430.0000000005,USD
+THAR,"Tharimmune, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3843435.646606914,USD
+VERO,Venus Concept Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3794708.2182258065,USD
+TCBP,TC BioPharm (Holdings) plc,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3706353,USD
+ZVSA,"ZyVersa Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3681890.9590909085,USD
+HSDT,"Helius Medical Technologies, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3617703.7664233567,USD
+PHIO,Phio Pharmaceuticals Corp.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3581526.1744966437,USD
+HSCS,"Heart Test Laboratories, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3553440.568383659,USD
+ATXI,"Avenue Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3491058.255263158,USD
+SXTP,"60 Degrees Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3485996.7968470086,USD
+INVO,"INVO BioScience, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3480818.499179701,USD
+NDRA,ENDRA Life Sciences Inc.,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,3480646.7329151537,USD
+ONCO,"Onconetix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3415660.2471910114,USD
+BPTH,"Bio-Path Holdings, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3318448.72,USD
+REVB,"Revelation Biosciences, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3314857.6985743376,USD
+CYCCP,"Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock",Health Technology,NASDAQ,,Pharmaceuticals: Major,3292333,USD
+ALBT,Avalon GloboCare Corp.,Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Real Estate and Other Financial Services",Biotechnology,3275837.2113064458,USD
+CYTO,Altamira Therapeutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3203550.736486486,USD
+SEEL,"Seelos Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3150965.644171779,USD
+CYCC,"Cyclacel Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3105035.833777778,USD
+APVO,Aptevo Therapeutics Inc.,Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,3064206.1294871797,USD
+MBIO,"Mustang Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,3003573.6774193547,USD
+INM,InMed Pharmaceuticals Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2949522.54890644,USD
+SPRC,SciSparc Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2867902.016949153,USD
+QNRX,"Quoin Pharmaceuticals, Ltd.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2847357,USD
+TIVC,"Tivic Health Systems, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,2843833.71829454,USD
+SNOA,"Sonoma Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2753151.033165829,USD
+CNSP,"CNS Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2452164.365116279,USD
+WINT,"Windtree Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2429786.203529412,USD
+GLMD,Galmed Pharmaceuticals Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2388837.2173627284,USD
+SLRX,"Salarius Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,2349527.4522292996,USD
+DYNT,Dynatronics Corporation,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,2260897.780130293,USD
+AEMD,"Aethlon Medical, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,2169042.823255814,USD
+LSDI,Lucy Scientific Discovery Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,2152999.8412698414,USD
+NAOV,"NanoVibronix, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,2033134.8039999998,USD
+QLGN,"Qualigen Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,1944890.4736472238,USD
+APDN,"Applied DNA Sciences, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Biotechnology,1918742.508,USD
+PRFX,PainReform Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1855307.0000000002,USD
+SCNI,Scinai Immunotherapeutics Ltd.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Other,1759669,USD
+GRI,"GRI Bio, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Biotechnology,1713617.249698432,USD
+BBLG,Bone Biologics Corp,Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,1672743.3424657537,USD
+ATNF,180 Life Sciences Corp.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1638366.5125628142,USD
+DRMA,"Dermata Therapeutics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1607482.2583004243,USD
+VRPX,"Virpax Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,1497080.7997297295,USD
+BJDX,"Bluejay Diagnostics, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Medical Specialties,1438862.8560235065,USD
+SMFL,"Smart for Life, Inc.",Health Technology,NASDAQ,"NASDAQ Composite, NASDAQ Industrials",Pharmaceuticals: Other,779674.7752442997,USD
+SXTC,"China SXT Pharmaceuticals, Inc.",Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,593810.9210526317,USD
+BDRX,Biodexa Pharmaceuticals plc,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,551071,USD
+CMND,Clearmind Medicine Inc.,Health Technology,NASDAQ,NASDAQ Composite,Pharmaceuticals: Major,,
