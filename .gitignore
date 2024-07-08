@@ -11,3 +11,7 @@
 dist/
 .vscode/
 data/.DS_Store
+
+
+# sudz added
+/edgar_venv
