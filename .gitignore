@@ -16,3 +16,4 @@ data/.DS_Store
 # sudz added
 /edgar_venv
 .env
+/DATA_Edgar
